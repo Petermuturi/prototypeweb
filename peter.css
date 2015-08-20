@@ -47,5 +47,9 @@ text-decoration:none;
 #nav ul li:hover ul{
 display: block; 
 }
-
+#nav ul ul{
+display:none;
+position: absolute;
+background-color: #ededed;
+}
 
