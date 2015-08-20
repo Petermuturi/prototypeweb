@@ -65,5 +65,9 @@ background-color:#11233b;
 color: #92CB6B;
 background-color: #ededed;
 }
-
+span {
+  color:#A40085;
+  background-color:#0099A4;
+  border-radius:10px;
+}
 
