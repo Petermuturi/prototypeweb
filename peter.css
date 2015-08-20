@@ -56,4 +56,8 @@ background-color: #ededed;
 #nav ul ul li{
 display: block;
 }
+#nav ul ul li a,visited{
+color:#C5A1A1;
+background-color:#11233b;
+}
 
