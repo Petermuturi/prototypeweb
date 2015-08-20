@@ -43,3 +43,9 @@ display:inline-block;
 color: #92CB6B;
 text-decoration:none;
 }
+
+#nav ul li:hover ul{
+display: block; 
+}
+
+
