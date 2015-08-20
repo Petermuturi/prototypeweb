@@ -29,3 +29,6 @@ img {
 padding:0px;
 display:inline-block;
 }
+#nav ul li:hover{
+  background-color: #ededed;
+  }
