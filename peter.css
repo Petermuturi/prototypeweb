@@ -94,3 +94,9 @@ article {
 section {
  padding: 50px;
  }
+
+ p {
+ border-radius:10px;
+ color:black;
+ background-color:#D84433;
+}
