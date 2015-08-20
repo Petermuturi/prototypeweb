@@ -32,3 +32,9 @@ display:inline-block;
 #nav ul li:hover{
   background-color: #ededed;
   }
+  #nav  ul li a,visited{
+ color:#C5A1A1;
+ display:block;
+ text-decoration: none;
+ padding:15px;
+}
