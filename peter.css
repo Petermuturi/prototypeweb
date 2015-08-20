@@ -105,3 +105,8 @@ section {
 h1 {
 border-bottom: dashed;
 }
+
+button:hover{
+background-color:#D26FD0;
+color:white;
+}
