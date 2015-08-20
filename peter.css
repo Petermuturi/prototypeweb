@@ -25,3 +25,7 @@ img {
      border-radius:70%;
 	 padding:38px;
 	}
+	#nav ul li{
+padding:0px;
+display:inline-block;
+}
