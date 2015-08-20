@@ -1,0 +1,21 @@
+*{
+font-family:Purisa;
+font-size: 15px;
+}
+
+#nav {
+  background-color: #11233b;
+}
+#nav_wrapper{
+width:960px;
+margin:0 auto;
+text-align: left;
+}
+
+#nav ul {
+  box-shadow: 0px 0px 9px rgba(0,0,0,0.5);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
